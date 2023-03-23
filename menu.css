@@ -1,0 +1,25 @@
+#danhsach {
+  color: #f1f1f1;
+  display: inline-block;
+  width: 5%;
+  height: 40px;
+  line-height: 40px;
+  margin-left: 8%;
+  text-align: center;
+}
+#menu a {
+  text-decoration: none;
+  color: yellow;
+  display: block;
+  padding-bottom: 10px;
+}
+#menu a:hover {
+  background: yellow  ;
+  color: orange;
+}
+#menu ul {
+  background: red;
+  list-style-type: none;
+  overflow: hidden;
+  width: 100%;
+}
