@@ -90,7 +90,7 @@ body{
 }
 #footer a {
   text-decoration: none;
-  color: blue;
+  color: red;
   display: block;
 }
 #footer a:hover {
@@ -98,7 +98,7 @@ body{
   color: orange;
 }
 header div ul li {
-  color: #f1f1f1;
+  color: red;
   display: inline-block;
   width: 5%;
   height: 40px;
@@ -108,7 +108,7 @@ header div ul li {
 }
 header div a {
   text-decoration: none;
-  color: yellow;
+  color: black;
   display: block;
   border-left: 2px solid white;
   border-right: 2px solid white;
